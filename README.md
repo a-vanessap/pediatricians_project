@@ -6,3 +6,5 @@ To adjust the number of pediatricians in each town for population differences, I
 Next, I normalized the pediatrician count in each town to the median child population, allowing for consistent comparison across municipalities. To analyze broader trends, I grouped towns into regions based on the Puerto Rico Department of Health’s administrative boundaries and calculated the total number of pediatricians and children in each region.
 
 Lastly, I used geopandas to create a GeoJSON file representing the regional boundaries. This analysis focused on general pediatricians and didn't include pediatric subspecialists.
+
+This project was part of my course work for the Lede Program at Columbia University's Journalism School. 
